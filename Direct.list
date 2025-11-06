@@ -10,12 +10,14 @@ DOMAIN-SUFFIX,mddmcn.com
 DOMAIN-SUFFIX,mdd.tvb.com
 DOMAIN-SUFFIX,mask-h2.icloud.com
 DOMAIN-SUFFIX,zsxg.cn
+DOMAIN-SUFFIX,aiboss.chat
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
 DOMAIN-KEYWORD,flomo
 DOMAIN-KEYWORD,cheesefortune
 DOMAIN-KEYWORD,mask-h2
+DOMAIN-KEYWORD,aiboss
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
